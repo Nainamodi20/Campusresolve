@@ -10,7 +10,7 @@ namespace CampusResolve
         private static readonly string Server = "localhost";
         private static readonly string Database = "campus_resolve_db";
         private static readonly string User = "root";
-        private static readonly string Password = "sudha"; // Change to your actual MySQL root password
+        private static readonly string Password = ""; // Change to your actual MySQL root password
 
         public static string GetConnectionString()
         {
