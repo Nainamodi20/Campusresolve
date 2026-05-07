@@ -7,7 +7,7 @@ namespace CampusResolve
         public static readonly Color DeepNavy = ColorTranslator.FromHtml("#02000D");
         public static readonly Color DarkBlue = ColorTranslator.FromHtml("#07203F");
         public static readonly Color LightBeige = ColorTranslator.FromHtml("#EBDED4");
-        public static readonly Color SoftPeach = ColorTranslator.FromHtml("#D9AA90");
+        public static readonly Color SoftPeach = ColorTranslator.FromHtml("#4F8EF7")
         public static readonly Color MutedBrown = ColorTranslator.FromHtml("#A65E46");
 
         public static readonly Font HeaderFont = new Font("Segoe UI", 16, FontStyle.Bold);
